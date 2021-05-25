@@ -11,7 +11,7 @@ function Homeworks() {
       <Jumbotron fluid>
         <Container fluid>
           <h1 className="display-3">WELCOME TO BOOTCAMP - MAY 24 EDITION</h1>
-          <p className="lead">My Name is Sachin Rajgire and I am student here </p>
+          <p className="lead">My Name is Sai Manudeep Gadde and I am student here </p>
           <NavBar />
 
           <Table dark>
@@ -28,14 +28,14 @@ function Homeworks() {
           <th scope="row">1</th>
           <td>Homework1</td>
           <td>Git Practice. Provide link of your repo here </td>
-          <td><a href="https://github.com"> Link</a> </td>
+          <td><a href="https://github.com/Manudeep-git"> Link</a> </td>
        
       </tr>
         <tr>
           <th scope="row">2</th>
           <td>Homework 2</td>
           <td>Javascript - Here is my codepen link with solutions</td>
-          <td><a href="https://codepen.io/wynisco/pen/ExWmXzd"> Link</a> </td>
+          <td><a href="https://codepen.io/manudeep-git/pen/rNyejPW"> Link</a> </td>
        
       </tr>
         
