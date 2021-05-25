@@ -1,3 +1,3 @@
-Clone repo https://github.com/sachinrajgire/May24react
+This repo is to store my work at Wynsico Bootcamp
 
-Deploy to Netlify using 
+Website deployed through netlify can be accessed at https://reaction-saimanudeep-gadde.netlify.app/#/
