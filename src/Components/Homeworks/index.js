@@ -42,6 +42,12 @@ function Homeworks() {
             <td>Javascript - Storage Practice - Codepen link to the right</td>
             <td><a href="https://codepen.io/manudeep-git/pen/yLMoWmW">Link</a></td>
           </tr>
+          <tr>
+            <th scope="row">2.2</th>
+            <td>Homework 2.2</td>
+            <td>Wynisco class Website - HTML version</td>
+            <td><a href="https://github.com/Manudeep-git/Wynisco-Class-Website">Link</a></td>
+          </tr>
         </tbody>
       </Table>
         </Container>
