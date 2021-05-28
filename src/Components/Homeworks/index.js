@@ -14,33 +14,36 @@ function Homeworks() {
           <p className="lead">My Name is Sai Manudeep Gadde and I am a student here </p>
           <NavBar />
 
-          <Table dark>
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>Type</th>
-          <th>Description</th>
-          <th>Link</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th scope="row">1</th>
-          <td>Homework1</td>
-          <td>Git Practice. Provide link of your repo here </td>
-          <td><a href="https://github.com/Manudeep-git/gitpracticehw1"> Link</a> </td>
-       
-      </tr>
-        <tr>
-          <th scope="row">2</th>
-          <td>Homework 2</td>
-          <td>Javascript - Here is my codepen link with solutions</td>
-          <td><a href="https://codepen.io/manudeep-git/pen/gOmRePQ"> Link</a> </td>
-       
-      </tr>
-        
-      </tbody>
-    </Table>
+      <Table dark>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Type</th>
+            <th>Description</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>Homework1</td>
+            <td>Git Practice. Provide link of your repo here </td>
+            <td><a href="https://github.com/Manudeep-git/gitpracticehw1"> Link</a> </td>
+          </tr>
+          <tr>
+            <th scope="row">2</th>
+            <td>Homework 2</td>
+            <td>Javascript - Here is my codepen link with solutions</td>
+            <td><a href="https://codepen.io/manudeep-git/pen/gOmRePQ"> Link</a> </td>
+          </tr>
+          <tr>
+            <th scope="row">2.1</th>
+            <td>Homework 2.1</td>
+            <td>Javascript - Storage Practice - Codepen link to the right</td>
+            <td><a href="https://codepen.io/manudeep-git/pen/yLMoWmW">Link</a></td>
+          </tr>
+        </tbody>
+      </Table>
         </Container>
       </Jumbotron>
     </div>
